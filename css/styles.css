@@ -22,6 +22,13 @@ img {
         display: block;
 }
 
+.container {
+        max-width: 1158px;
+        margin: 0 auto;
+        padding-left: 15px;
+        padding-right: 15px;
+}
+
 /* header */
 
 .page-header {
@@ -69,12 +76,7 @@ img {
     color: #404bbf;
 }
 
-.container {
-        max-width: 1158px;
-        margin: 0 auto;
-        padding-left: 15px;
-        padding-right: 15px;
-}
+
 
 .page-header .container {
         display: flex;
@@ -370,6 +372,8 @@ background-color: #2e2f42;
         font-size: 24px;
         font-weight: 700;
         text-decoration: none;
+        display: inline-block;
+        margin-bottom: 16px;
 }
 .footer-wrap {
         max-width: 264px;
