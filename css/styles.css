@@ -23,6 +23,11 @@ img {
 }
 
 /* header */
+
+.page-header {
+        border-bottom: 1px solid #e7e9fc;
+}
+
 .logo {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
@@ -31,6 +36,7 @@ img {
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
+        margin-right: 76px;
 }
 
 .header-logo .logo-part {
@@ -72,8 +78,7 @@ img {
 .page-header .container {
         display: flex;
         justify-content: space-between;
-        align-items: center;
-        padding: 24px 0;
+        align-items: center;        
 }
 
 .header-nav {
@@ -85,6 +90,7 @@ img {
 .nav-list {
         display: flex;
         gap: 40px;
+        padding: 24px 0;
 }
 
 .contacts {
