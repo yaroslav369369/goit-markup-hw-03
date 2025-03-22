@@ -124,7 +124,9 @@ background-color: #2e2f42;
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        text-align: center;     
+        text-align: center;    
+        padding-top: 188px;
+        padding-bottom: 188px;
         }
 
 .main-title {
@@ -148,6 +150,9 @@ background-color: #2e2f42;
         border: none;
         cursor: pointer;
         transition: background-color 0.3s ease-in-out;
+        display: block;
+        margin: 0 auto;
+        min-width: 169px;
 }
 
 .order-btn:hover,
