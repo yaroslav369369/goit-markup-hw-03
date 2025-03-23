@@ -206,7 +206,7 @@ background-color: #2e2f42;
         margin-bottom: 8px;
 }
 
-.values-item {
+.value-box {
         width: calc((100% - 72px) / 4);        
 }
 .text-content {    
@@ -294,7 +294,7 @@ background-color: #2e2f42;
         gap: 24px;
 }
 
-.portfolio-card {
+.team-card {
         width: calc((100% - 72px) / 4)
 }
 
