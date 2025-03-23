@@ -206,9 +206,9 @@ background-color: #2e2f42;
         margin-bottom: 8px;
 }
 
-.value-box {
+/* .values-item {
         width: calc((100% - 72px) / 4);        
-}
+} */
 .text-content {    
         font-weight: 400;
         font-size: 16px;
@@ -294,9 +294,9 @@ background-color: #2e2f42;
         gap: 24px;
 }
 
-.team-card {
+/* .team-card {
         width: calc((100% - 72px) / 4)
-}
+} */
 
 .text-team {    
         font-weight: 400;
@@ -344,10 +344,10 @@ background-color: #2e2f42;
         list-style: none;
 }
 
-.portfolio-card {
+/* .portfolio-card {
         width: calc((100% - 48px) / 3);          
         padding-bottom: 48px;
-}
+} */
 
 
  
